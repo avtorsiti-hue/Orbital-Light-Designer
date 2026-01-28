@@ -1,0 +1,17 @@
+{
+  "name": "Orbital Sim",
+  "short_name": "Orbital",
+  "description": "Sophisticated orbital simulation tool",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2534/2534011.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

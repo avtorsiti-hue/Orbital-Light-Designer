@@ -1,0 +1,9 @@
+{
+  "name": "Orbital Light Designer",
+  "description": "Orbital Light Designer (OLD)\nOrbital Light Designer is an AI-driven audiovisual orchestration engine that transforms complex audio data into harmonious light movements and orbital geometries. By mapping acoustic parameters to visual scales, the system creates a \"single-spiral harmony\" where sound and light exist as a unified entity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
